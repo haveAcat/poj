@@ -1,0 +1,16 @@
+step one
+将九宫格每个位置上所有走法的可能性都确定下来
+x在a[0][0]时，走法为
+①rrdd②rdrd③ddrr
+x在a[1][0]或a[0][1]时，走法为
+
+
+int i,j;
+if a[
+
+把X在阵列中的位置找出来。如何标记？
+已解决，用另外两个参数提取出标记X位置的两个参数
+
+答案：
+http://blog.csdn.net/lionel_d/article/details/43824927
+A*算法
